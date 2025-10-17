@@ -1,5 +1,5 @@
 # carta-pastoral
-Texts in Nheengatu from Dom Frederico Costa's "Carta Pastoral".
+Texts in Nheengatu from Dom Frederico Costa's "Carta Pastoral". These texts will be progressively annotated and integrated into the [UD_Nheengatu-CompLin]([url](https://github.com/UniversalDependencies/UD_Nheengatu-CompLin/tree/dev)) treebank.
 
 ```bibtex
 @book{costa1909,
