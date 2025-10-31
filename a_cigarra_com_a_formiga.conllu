@@ -19,12 +19,92 @@
 # sent_id = Costa1909:1:3:3
 # text_orig = U-mbaú-ana, u-ú pau ana irumuaraîtá irumo.
 # text_source = p. 165
-# text_sec = 
+# text_sec = U-mbaú-ana, u-u pau-ana irumuraitá irumo.
 # text_sec_source = Stradelli (1928:736)
-# text_por = 
+# text_por = Comeu tudo, bebeu tudo com as companheiras.
 # text_por_source = Stradelli (1928:736)
 
 # sent_id = Costa1909:1:4:4
+# text_orig = U-puracê ara pucuçaua, pituna pucuçaua.
+# text_source = p. 165
+# text_sec = U-puracé ara pucusáua, pituna pucusáua.
+# text_sec_source = Stradelli (1928:736)
+# text_por = Dançou todo o dia e toda a noite.
+# text_por_source = Stradelli (1928:736)
+
+# sent_id = Costa1909:1:5:5
+# text_orig = U-mbaú-ana upainhen uricú uahá.
+# text_source = p. 165
+# text_sec = U-mbaú-ana upainhen uricú uaá.
+# text_sec_source = Stradelli (1928:736)
+# text_por = Comeu tudo o que tinha.
+# text_por_source = Stradelli (1928:736)
+
+# sent_id = Costa1909:1:6:6
+# text_orig = Nemanungára umungatúru ariré uára.
+# text_source = p. 165
+# text_sec = Nemanungara u-mungaturú ariré uara.
+# text_sec_source = Stradelli (1928:736)
+# text_por = Não guardou nada para depois.
+# text_por_source = Stradelli (1928:736)
+
+# sent_id = Costa1909:1:7:7
+# text_orig = Ucica amana ara çupi rupiára, iruçanga reté.
+# text_source = p. 165
+# text_sec = U-cica amana ara supi rupiara irusanga reté.
+# text_sec_source = Stradelli (1928:736)
+# text_por = Chega o tempo da chuva verdadeiro, por isso muito frio.
+# text_por_source = Stradelli (1928:736)
+
+# sent_id = Costa1909:1:8:8
+# text_orig = Amana uaári muiri ara, nharacê ti auá umunhan quau muraiki.
+# text_source = p. 165
+# text_sec = Amana uaari muiri ara, nharacé ti auá umunhãn cuau muraiki;
+# text_sec_source = Stradelli (1928:736)
+# text_por = A chuva cae muitos dias, pelo que ninguem pode trabalhar.
+# text_por_source = Stradelli (1928:736)
+
+# sent_id = Costa1909:1:9:9
+# text_orig = Aramé Daridari u-iumaci.
+# text_source = p. 165
+# text_sec = Aramé Daridarí u-iumaci, ti uricú manungara u-mbaú arama.
+# text_sec_source = Stradelli (1928:736)
+# text_por = Então Daridari tem fome, não tem nada para comer.
+# text_por_source = Stradelli (1928:736)
+
+# sent_id = Costa1909:1:10:10
+# text_orig = Ti uricú manungára u-mbaú arama.
+# text_source = p. 165
+# text_sec = Aramé Daridarí u-iumaci, ti uricú manungara u-mbaú arama.
+# text_sec_source = Stradelli (1928:736)
+# text_por = Então Daridari tem fome, não tem nada para comer.
+# text_por_source = Stradelli (1928:736)
+
+# sent_id = Costa1909:1:11:11
+# text_orig = Utim recêuára u-iurureu, kiririnto u-purará uicupucú rupi.
+# text_source = p. 165
+# text_sec = Utim receuára u-iurureu, kiririnto u-purará uicupucú rupi.
+# text_sec_source = Stradelli (1928:736)
+# text_por = Com vergonha de pedir, supportou calada por muito tempo.
+# text_por_source = Stradelli (1928:736)
+
+# sent_id = Costa1909:1:12:12
+# text_orig = Umanú putari ramé uana, ucámirica imarica, nheen: — Tiana a-pitáçuca quau imaci.
+# text_source = p. 165
+# text_sec = Umanú putari ramé ana, ucamiricá imarica unheen: — Tiana apitasuca cuau iumaci.
+# text_sec_source = Stradelli (1928:736)
+# text_por = Quando já estava para querer morrer, apertando a barriga, disse: — Já não posso mais suportar a fome.
+# text_por_source = Stradelli (1928:736)
+
+# sent_id = Costa1909:1:13:13
+# text_orig = Ti apuraiki putari curaci ara ramé, timaan puçanga cuhiri a-iurureu ti arama amanú.
+# text_source = p. 165
+# text_sec = Ti apuraiki putari curaci ara ramé, timaan pusanga cuiri aiurureu ti arama amanú.
+# text_sec_source = Stradelli (1928:736)
+# text_por = Não quiz trabalhar no tempo do sol, agora não ha remedio sinão pedir para não morrer.
+# text_por_source = Stradelli (1928:736)
+
+# sent_id = Costa1909:1:14:14
 # text_orig = 
 # text_source = p. 165
 # text_sec = 
