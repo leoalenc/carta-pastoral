@@ -177,17 +177,145 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:23:23
-# text_orig = 
+# text_orig = Quaié u-nheen pau riré u-iu-muhamundéo; u-çú-ana çatambica tacïua ruca kiti apecatú xinga uicú uahá açui.
 # text_source = p. 165
-# text_sec = 
-# text_sec_source = Stradelli (1928:736)
-# text_por = 
-# text_por_source = Stradelli (1928:736)
+# text_sec = Cuaié u-nheen pau riré u-iu-munhamundeo; u-su-ana satambica tacyua ruca kiti apecatú xinga uicú uaá asui.
+# text_sec_source = Stradelli (1928:737)
+# text_por = Acabou de dizer assim, depois ataviou-se; foi direto para casa da formiga, que morava um pouco longe d'ahi.
+# text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:24:24
-# text_orig = 
+# text_orig = U-tucátucá ukena ucikieçaua rupi.
 # text_source = p. 165
+# text_sec = U-tucátucá okeiua ucikiésáua rupi.
+# text_sec_source = Stradelli (1928:737)
+# text_por = Batteu na porta com medo.
+# text_por_source = Stradelli (1928:737)
+
+# sent_id = Costa1909:1:25:25
+# text_orig = Tacïua uri u-pirari ukena, u-nheen: — Mahiê-tahá, comadre Daridari?
+# text_source = p. 165
+# text_sec = Taxyua uri u-pirari okena onheen: — Maie-taa, comadre Daridari?
+# text_sec_source = Stradelli (1928:737)
+# text_por = A formiga vindo abrir a porta disse: — Que é isso, comadre Daridari?
+# text_por_source = Stradelli (1928:737)
+
+# sent_id = Costa1909:1:26:26
+# text_orig = Mahá marandua u-ruri indé ce ruca kiti?
+# text_source = p. 165
+# text_sec = Maá marandua ururi indé ce roca kiti?
+# text_sec_source = Stradelli (1928:737)
+# text_por = Que novidade traz você á minha casa?
+# text_por_source = Stradelli (1928:737)
+
+# sent_id = Costa1909:1:27:27
+# text_orig = Daridari utimçaua rupi u-çuaxára: — Ah comadre!
+# text_source = p. 165
+# text_sec = Daridari utinsáua rupi u-suaxára: — Ah comadre!
+# text_sec_source = Stradelli (1928:737)
+# text_por = Daridari com vergonha respondeu: — Ah comadre!
+# text_por_source = Stradelli (1928:737)
+
+# sent_id = Costa1909:1:28:28
+# text_orig = A-muaci reté a-nheen indé arama: ixé a-manú a-icú iumaci rupi.
+# text_source = p. 165
+# text_sec = A-muaci reté anheen indé arama, ixé amanú aicú iumaci rupi.
+# text_sec_source = Stradelli (1928:737)
+# text_por = Eu sofro muito, o digo para ti, eu estou a morrer de fome.
+# text_por_source = Stradelli (1928:737)
+
+# sent_id = Costa1909:1:29:29
+# text_orig = A-iuri a-púrú ne çui mahã miri ixé arama familia irumo.
+# text_source = p. 165
+# text_sec = A-iuri a-puru ne suí maã miri ixé arama familia irumo.
+# text_sec_source = Stradelli (1928:737)
+# text_por = Venho emprestar de ti qualquer pequena cousa para mim e minha familia.
+# text_por_source = Stradelli (1928:737)
+
+# sent_id = Costa1909:1:30:30
+# text_orig = Tupana recê catú!
+# text_source = p. 165
+# text_sec = Tupana recé catú!
+# text_sec_source = Stradelli (1928:737)
+# text_por = Si Deus quizer!
+# text_por_source = Stradelli (1928:737)
+
+# sent_id = Costa1909:1:31:31
+# text_orig = Agosto iaci renundé xa-pagari curi upainhen.
+# text_source = p. 165
+# text_sec = agosto iaci tenendé xa-pagari curi upainhen.
+# text_sec_source = Stradelli (1928:737)
+# text_por = com a lua de Agosto eu poderei pagar tudo.
+# text_por_source = Stradelli (1928:737)
+
+# sent_id = Costa1909:1:32:32
+# text_orig = Tacïua catú reté; mã çupi ti-upuruêra.
+# text_source = p. 165
+# text_sec = Taxyua catú reté, ma supi tiupuruéra.
+# text_sec_source = Stradelli (1928:737)
+# text_por = A formiga é muito boa, na verdade não é emprestadeira.
+# text_por_source = Stradelli (1928:737)
+
+# sent_id = Costa1909:1:33:33
+# text_orig = Ucendú riré Daridari nheenga u-muxirica çuá, u-purandú: — Marama rericú iumaci?
+# text_source = p. 165
+# text_sec = U-cendú riré Daridari nheenga u-muxirica suá, u-purandú: — Marama rericu iumaci?
+# text_sec_source = Stradelli (1928:737)
+# text_por = Depois de ter ouvido a conversa de Daridari fechou a cara e perguntou: — Porque tu estás faminta?
+# text_por_source = Stradelli (1928:737)
+
+# sent_id = Costa1909:1:34:34
+# text_orig = Maha-tahá re-munhan curaci ara pucuçaua?
+# text_source = p. 165
+# text_sec = Maátaá remunhãn curaci ara pucusáua?
+# text_sec_source = Stradelli (1928:737)
+# text_por = Que fizeste durante o tempo do sol?
+# text_por_source = Stradelli (1928:737)
+
+# sent_id = Costa1909:1:35:35
+# text_orig = Daridari u-çuaxára: — Mahá-tahá mahã u-çuaxára indé, comadre?
+# text_source = p. 166
+# text_sec = Daridari u-suaxara: — Maátaá ma u-suaxara indé, comadre?
+# text_sec_source = Stradelli (1928:738)
+# text_por = Daridari respondeu: — O que hei de responder-te, comadre?
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:1:36:36
+# text_orig = A-nhengari, a-puracê iuïri nhaan ara pucuçaua.
+# text_source = p. 166
+# text_sec = A-nhengari, a-puracé iuyri nhaan ara pucusáua.
+# text_sec_source = Stradelli (1928:738)
+# text_por = Cantei e dancei durante todo este tempo.
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:1:37:37
+# text_orig = — Aramé, u-çuaxára Tacïua, cuhiri comadre anhunten u-munhan quau.
+# text_source = p. 166
+# text_sec = — Aramé, usuaxara taxyua, cuiri, comadre, anhunten u-munhan cuau, re-iupirú re-puracé iuyri, merecé auá ti u-puraiki ti u-mbaú.
+# text_sec_source = Stradelli (1928:738)
+# text_por = — Então, respondeu a formiga, agora, comadre, o que somente podes fazer é recomeçar a dançar, porque quem não trabalha não come.
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:1:38:38
+# text_orig = Re-iupirú re-puracê iuïri, maharecê auá ti u-puraiki ti u-mbaú.
+# text_source = p. 166
+# text_sec = — Aramé, usuaxara taxyua, cuiri, comadre, anhunten u-munhan cuau, re-iupirú re-puracé iuyri, merecé auá ti u-puraiki ti u-mbaú.
+# text_sec_source = Stradelli (1928:738)
+# text_por = — Então, respondeu a formiga, agora, comadre, o que somente podes fazer é recomeçar a dançar, porque quem não trabalha não come.
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:1:39:39
+# text_orig = 
+# text_source = p. 166
 # text_sec = 
-# text_sec_source = Stradelli (1928:736)
+# text_sec_source = Stradelli (1928:738)
 # text_por = 
-# text_por_source = Stradelli (1928:736)
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:1:40:40
+# text_orig = 
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
