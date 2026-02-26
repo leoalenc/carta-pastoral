@@ -304,7 +304,135 @@
 # text_por = — Então, respondeu a formiga, agora, comadre, o que somente podes fazer é recomeçar a dançar, porque quem não trabalha não come.
 # text_por_source = Stradelli (1928:738)
 
-# sent_id = Costa1909:1:39:39
+# sent_id = Costa1909:2:1:39
+# text_orig = Iepé hi, paá, iepé mira uaçú, turuçú, kerembaua.
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:2:40
+# text_orig = Iepé ara upé u-nheen: — Xa-servire putari iepé muruixaua tutuçú piri, kerembaua piri upainhen amuîtá çui qua mundo opé.
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:3:41
+# text_orig = Ariré u-çú-ana uatá mundo rupi; u-cica uana Roma upé.
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:4:42
+# text_orig = Roma muruixaua nhaan tempo opé turuçú piri, kerembaua piri upainhen amuîtá çui qua mundo opé.
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:5:43
+# text_orig = Mira uaçú u-cica ramé i-piri u nheen: — Xa servire putari indé ne çurára arama.
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:6:44
+# text_orig = Muruixaua u-mahan riré cêcê u-nhen: — Xa-putari indé ce çurára arama.
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:7:45
+# text_orig = Mira uaçú uatá nhaan muruixaua irumo uicupucú rupi.
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:8:46
+# text_orig = Maramonia rété, upain ara kerembaua rété.
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:9:47
+# text_orig = Amuramé u-mahan nhaan muruixaua u-munhan tëua curuçá rangaua çuápe. 
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:10:48
+# text_orig = U-quau putari mahan nhaan u-purandú: — Mahá-tahá nhaan re-munhan uahá ne ruápe?
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:11:49
+# text_orig = Muruixaua u-çuaxára: — Santa Curuçá Rangaua.
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:12:50
+# text_orig = Iané Iára Iesu Christu Rangaua.
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:13:51
+# text_orig = Mira uaçú u-purandú iuïri: — Maharama-tahá iaué re-munhan?
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:14:52
+# text_orig = Muruixaua u-çuaxára: — A-iu-picirú Iurupari çui.
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:15:53
+# text_orig = Mira uaçú u-purandú: — Ramé, indé re-cikiê Iurupari?
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:16:54
+# text_orig = Aé kerembaua piri ne çui?
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:11:49
 # text_orig = 
 # text_source = p. 166
 # text_sec = 
@@ -312,7 +440,23 @@
 # text_por = 
 # text_por_source = Stradelli (1928:738)
 
-# sent_id = Costa1909:1:40:40
+# sent_id = Costa1909:2:11:49
+# text_orig = 
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:11:49
+# text_orig = 
+# text_source = p. 166
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:11:49
 # text_orig = 
 # text_source = p. 166
 # text_sec = 
