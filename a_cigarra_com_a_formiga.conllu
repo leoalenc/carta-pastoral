@@ -1105,7 +1105,7 @@
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:3:1:139
-# text_orig = 
+# text_orig = Catú reté Rosario Virgem Mar'Iára; Iuáca ra-pé Iané raçuçára!
 # text_source = p. 169
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
@@ -1113,7 +1113,7 @@
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:3:2:140
-# text_orig = 
+# text_orig = Padre Nosso — imbueçaua Christu Iané Iára, Rupi çaiçuçaua, Iané umbué.
 # text_source = p. 169
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
@@ -1121,48 +1121,168 @@
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:3:3:141
-# text_orig = 
-# text_source = p. 169
+# text_orig = Rosario Manha, Iuáca Iára, Xa-servire putari Catuçaua neiára.
+# text_source = p. 170
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
 # text_por = 
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:3:4:142
-# text_orig = 
-# text_source = p. 169
+# text_orig = Xa-putari, Ce Iára, Ce manuçaua ramé, Ne Rosario curi Ce Picirúçaua rété.
+# text_source = p. 170
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
 # text_por = 
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:3:5:143
-# text_orig = 
-# text_source = p. 169
+# text_orig = I-Paia Gloria, Tahira iuïri Espirito Santo iuïri Upain ara.
+# text_source = p. 170
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
 # text_por = 
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:3:6:144
-# text_orig = 
-# text_source = p. 169
+# text_orig = Iaué.
+# text_source = p. 170
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
 # text_por = 
 # text_por_source = Stradelli (1928:738)
 
-# sent_id = Costa1909:3:7:145
-# text_orig = 
-# text_source = p. 169
+# sent_id = Costa1909:4:1:145
+# text_orig = Oh Jesus, Iané Piciruçára, Re-çaiçú Brazil Ne munduçaua upé.
+# text_source = p. 170
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
 # text_por = 
 # text_por_source = Stradelli (1928:738)
 
-# sent_id = Costa1909:3:8:146
+# sent_id = Costa1909:4:2:146
+# text_orig = Recendù Iuáca çui Iané Retama nheenga, Brazileiro, Christão ixé!
+# text_source = p. 170
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:4:3:147
+# text_orig = Re-muiereu ne reçá catú Qua povo iunipian uahá recê; Iané Jesus, repicirú aé u-xari ruiariçaua.
+# text_source = p. 170
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:4:4:148
+# text_orig = Jesus catú, ne kerembaua pú Iané Piciruçára reté!
+# text_source = p. 171
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:4:5:149
+# text_orig = Re-mucahemo iquaimaçaua, I-çui Brazil re-picirú!
+# text_source = p. 171
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:4:6:150
+# text_orig = Re-muapica-uana Roma upé Nhaan itá iupirungaua, I rupi Igreja kerembaua Inferno ruaxára u-iu-pitáçuca.
+# text_source = p. 171
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:4:7:151
+# text_orig = Iané ruri qua ruiariçaua Iané ara pauçaua upé; Qua riré çuri curi Indé irumo Iuáca upé!
+# text_source = p. 171
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:5:1:152
+# text_orig = Ceretama uricú palmeira Mamé u-nhengari caruxué!
+# text_source = p. 171
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:5:2:153
+# text_orig = Uiraîtá u-nhengari uahá iké Ti u-nhengari ape uahá iaué!
+# text_source = p. 171
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:5:3:154
+# text_orig = Iané Iuáca uerá piri, Iané ucára potyra pau; U-requé piri iané potyra, Iané ara piri u-çaiçú quau.
+# text_source = p. 171
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:5:4:155
+# text_orig = Xe-nhun-ira pituna ramé, Çuri piri ape a-uacemo ixé!
+# text_source = p. 172
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:5:5:156
+# text_orig = Ceretama uricú palmeira Mamé u-nhengari caruxué!
+# text_source = p. 172
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:5:6:157
+# text_orig = Ceretama uricú i-porangaçaua Mahiê ti a-uacemo qua rupi!
+# text_source = p. 172
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:5:7:158
+# text_orig = Ti a-iuiri akiti pucuçaua Tupá ti re-xari u-manú ixé.
+# text_source = p. 172
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:6:1:159
 # text_orig = 
-# text_source = p. 169
+# text_source = p. 172
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:6:2:160
+# text_orig = 
+# text_source = p. 172
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:6:3:161
+# text_orig = 
+# text_source = p. 172
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
 # text_por = 
