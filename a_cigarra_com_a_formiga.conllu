@@ -432,33 +432,737 @@
 # text_por = 
 # text_por_source = Stradelli (1928:738)
 
-# sent_id = Costa1909:2:11:49
-# text_orig = 
+# sent_id = Costa1909:2:17:55
+# text_orig = Muruixaua u-çuaxára: — Aé.
 # text_source = p. 166
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
 # text_por = 
 # text_por_source = Stradelli (1928:738)
 
-# sent_id = Costa1909:2:11:49
-# text_orig = 
-# text_source = p. 166
+# sent_id = Costa1909:2:18:56
+# text_orig = Xa-cikiê Iurupari.
+# text_source = p. 167
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
 # text_por = 
 # text_por_source = Stradelli (1928:738)
 
-# sent_id = Costa1909:2:11:49
-# text_orig = 
-# text_source = p. 166
+# sent_id = Costa1909:2:19:57
+# text_orig = Aé turuçú piri ixé çui.
+# text_source = p. 167
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
 # text_por = 
 # text_por_source = Stradelli (1928:738)
 
-# sent_id = Costa1909:2:11:49
+# sent_id = Costa1909:2:20:58
+# text_orig = Aramé Mira uaçú u-nheen: — Tiana a-icú putari ne irumo.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:21:59
+# text_orig = A-çú putari Iurupari irumo.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:22:60
+# text_orig = U-çú-ana mundo rupi u-cicari Iurupari.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:23:61
+# text_orig = Uatá uicú-pucú.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:24:62
+# text_orig = U-purandú upainhen çupé mamé u-icú Iurupari.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:25:63
+# text_orig = Upainhen mira ucikiê çui, u-iauau ana, aîtá u-munhan curuçá rangaua, aîtá u-nheen i-xupé: — Re-çú putari Iurupari piri, re-cúim.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:26:64
+# text_orig = Aé u-icú inferno opé.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:27:65
+# text_orig = Iepé ara aé u-kire iepé mirá uirpe; aramé u-cendú iepé tiapú uaçú.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:28:66
+# text_orig = Mundo u-pau putari uahá iaué.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:29:67
+# text_orig = Iacahemo u-páca, u-mahan tumaçaua kiti iepé tatátinga iaué, u-mucahemo curaci.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:30:68
+# text_orig = Ariré neiunto uicúpucú, u-iuquau iepé mira bando tapaiuna pau, cavalo arupi.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:31:69
+# text_orig = Aîtá renundé uri tuixaua.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:32:70
+# text_orig = Mira uaçú uçú ipiri u-purandú: — Auá-tahá indé?
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:33:71
+# text_orig = Tuixaua u-çuaxára: — Xe Iurupari.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:34:72
+# text_orig = Re-çú putari ixé irumo?
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:35:73
+# text_orig = Mira uaçú u çuaxára: — Aé.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:36:74
+# text_orig = Xa-çú putari ne irumo.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:37:75
+# text_orig = U-iupiri cavallo arupi, u-çú-ana Iurupari irumo.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:38:76
+# text_orig = Uatá uicupucú Iurupari irumo, u-mahan upain mahan.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:39:77
+# text_orig = Umahan iuïri Iurupari ti u-çaçau mamé u-icú uahá curuçá.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:40:78
+# text_orig = I-mauêra recêuára u-purandú: — Marama ti re-çú mamé u-icú curuçá?
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:41:79
+# text_orig = Iurupari u-çuaxára: — Maharecê aé Iesu Christu Rangaua.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:42:80
+# text_orig = Mira uaçú u-purandú iuïri: — Auá-tahá Iesu Christu?
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:43:81
+# text_orig = Re-cikiê cerá i-çui?
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:44:82
+# text_orig = Aé kerembaua piri ne-çui?
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:45:83
+# text_orig = Iurupari u-çuaxára: — Xa-cikiê aé.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:46:84
+# text_orig = Aé kerembaua piri reté xe çui.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:47:85
+# text_orig = Aramé Mira uaçú u-nheen: — Nharecê, Iurupari, tiana a-çú putari ne irumo.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:48:86
+# text_orig = Xa-çú cicari Iesu Christu.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:49:87
+# text_orig = U-munhan curuçá rangaua Iurupari çupé, Iurupari upuca-uana.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:50:88
+# text_orig = Mira uaçú u-çú iuïri, u-purandú muiri mira çupé: — Mamé u-icú Iesu Christu?
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:51:89
+# text_orig = Upain u-çuaxára: Upainhen rupi.
+# text_source = p. 167
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:52:90
+# text_orig = Mira uaçú ti recêuára uacemo Iesu Christu uatá u-çú u-icú.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:53:91
+# text_orig = U-cica iepé cáá uaçú upé, uacemo iepé itáquára upé iepé tuiué iunipian uahá u-icú iepé curuçá i-pú upé.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:54:92
+# text_orig = Mira uaçú u-nheen tuiué çupé: — Mahá-tahá re-munhan ape?
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:55:93
+# text_orig = Re-quau auá cerá Iesu Christu?
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:56:94
+# text_orig = Mamé u-icú aé?
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:57:95
+# text_orig = Tuiué u-çuaxára: — Ixé a-quau Iesu Christu.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:58:96
+# text_orig = Iané Muruixaua, Iané Iára.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:59:97
+# text_orig = Aé u-icú upainhen rupi.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:60:98
+# text_orig = Re-servire arama aé, re-munhan penitencia, re-iuquacú, re-iumbué, re-iauau pecadu çui.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:61:99
+# text_orig = Mira uaçú u-çuaxára: — Xe ti a-quau a-munhan i-nungára.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:62:100
+# text_orig = Re-mbué ixé amú rupi a-servire arama Iesu Christu.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:63:101
+# text_orig = Tuiué u-mahan cêcê u-nheen: — Re-mahan; mimi ahiqué iepé cachoeira iauité rété uahá.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:64:102
+# text_orig = Maraîta u-çaçau uahá rupi u-cahemo i-popé.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:65:103
+# text_orig = Re-servire putari Iesu Christu re-munhan ne ruca cachoeira ruaki, re-munhan arama catuçaua ne rapixaraîtá mira çupé, re-muiaçaiaçau amú çuaxára kiti auá u-cicá.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:66:104
+# text_orig = Mira uaçú u-çuaxára: — Iaué ramé xa-servire Iesu Christu.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:67:105
+# text_orig = U-munhan çuca cachoeira ruaki; uicupucú iaué u-munhan tuié u-mbué uahá iaué.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:68:106
+# text_orig = Iepé pituna u-kire u-icú çuka upé.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:69:107
+# text_orig = U-cendú amú çuaxára kiti iepé taina nheenga u-cenoi uahá aé.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:70:108
+# text_orig = U-poamo iepérecê, u-çú u-mahan mahá-tahá aé.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:71:109
+# text_orig = Pituna poranga; iuáca uerá catú.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:72:110
+# text_orig = Poranga, poranga... Mira uaçú umahan iepé taina poranga; iepé anjo iaué catú.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:73:111
+# text_orig = Mira uaçú u-purandú: — Auá-tahá indé, taina?
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:74:112
+# text_orig = Mamé-tahá ne paia, ne manha?
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:75:113
+# text_orig = Taina u-çuaxára: — Ixé ce-reraima.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:76:114
+# text_orig = Ti a-ricú ce paia ne ce manha.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:77:115
+# text_orig = Ixé a-çaçau putari çuaxára kiti.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:78:116
+# text_orig = Re-raçú ixé.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:79:117
+# text_orig = Mira uaçú u-nheen: — Teité miri!
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:80:118
+# text_orig = Ti u-ricú i-paia ne i-manha.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:81:119
+# text_orig = Re-iuri ce-irumo ce-rahira arama indé.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:82:120
+# text_orig = U-çupiri taina iápa upé.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:83:121
+# text_orig = U-çaan nhaan taina pucéima.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:84:122
+# text_orig = Ariré u-cica ramé cachoeira upé u-çaan i-pucé uana.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:85:123
+# text_orig = U-çú piri ramé cachoeira rupi u-çaan pucé reté uana taina.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:86:124
+# text_orig = Chumbo iaué catú u-çaan i-puceçaua.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:87:125
+# text_orig = U-iu-pitaçuca arama, u-iupicica iepé mirá uaçú recê u-icú uahá cachoeira piterpe.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:88:126
+# text_orig = Mirá uaçú uaari puceçaua irumo.
+# text_source = p. 168
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:89:127
+# text_orig = Mira uaçú iacahemo umahan taina recê, unheen: — Mahá-tahá qua, taina?
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:90:128
+# text_orig = Xa-maité xa-çupiri upain mahan qua mundo pura!
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:91:129
+# text_orig = Taina u-çuaxára: — Tiana re-çupiri upain mahan qua mundo pura, çupi upain Munhangára.
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:92:130
+# text_orig = Xe Iesu Christu auá re-servire putari retëua.
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:93:131
+# text_orig = Re-cúim, re-iu-muceruca, re-iumbué mahiê re-servire arama ixé.
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:94:132
+# text_orig = U-cahemo.
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:95:133
+# text_orig = Ape u-pitá Mira uaçú nhaan pituna remirêra, u-maité ikerpi u-icú.
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:96:134
+# text_orig = Coema ramé u-manduari upainhen mahiê u-çaçau uahá pituna pucuçaua, ramé u-mahan ti uahá ikerpiçaua.
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:97:135
+# text_orig = U-cemo cachoeira; u-çú u-cicari Pahyuaçú; umbeú pau mahiê u-çaçau uahá irumo.
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:98:136
+# text_orig = Pahyuaçú u-mbué upainhen mahan, ariré umuceruca aé.
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:99:137
+# text_orig = Mira uaçú u-iu-muceruca Christoforo, unheen putari: Christo Çupiriçára.
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:2:100:138
+# text_orig = Pauçaua upé Christoforo u-manú Iesu Christu çaiçuçaua rupi.
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:3:1:139
 # text_orig = 
-# text_source = p. 166
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:3:2:140
+# text_orig = 
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:3:3:141
+# text_orig = 
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:3:4:142
+# text_orig = 
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:3:5:143
+# text_orig = 
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:3:6:144
+# text_orig = 
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:3:7:145
+# text_orig = 
+# text_source = p. 169
+# text_sec = 
+# text_sec_source = Stradelli (1928:738)
+# text_por = 
+# text_por_source = Stradelli (1928:738)
+
+# sent_id = Costa1909:3:8:146
+# text_orig = 
+# text_source = p. 169
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
 # text_por = 
