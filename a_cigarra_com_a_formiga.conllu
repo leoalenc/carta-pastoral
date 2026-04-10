@@ -91,7 +91,7 @@
 # text_por_source = Stradelli (1928:736)
 
 # sent_id = Costa1909:1:11:11
-# text = Utim resewara uyururéu, kiririntu upurará uikupukú rupí.
+# text = Utĩ resewara uyururéu, kiririntu upurará uikupukú rupí.
 # text_orig = Utim recêuára u-iurureu, kiririnto u-purará uicupucú rupi.
 # text_source = p. 165
 # text_sec = Utim receuára u-iurureu, kiririnto u-purará uicupucú rupi.
@@ -109,7 +109,7 @@
 # text_por_source = Stradelli (1928:736)
 
 # sent_id = Costa1909:1:13:13
-# text = Ti apuraikí putari kurasí ara ramé, timaan pusanga kuíri ayururéu ti arama amanú.
+# text = Ti apuraikí putari kurasí ara ramé, ti maã pusanga kuíri ayururéu ti arama amanú.
 # text_orig = Ti apuraiki putari curaci ara ramé, timaan puçanga cuhiri a-iurureu ti arama amanú.
 # text_source = p. 165
 # text_sec = Ti apuraiki putari curaci ara ramé, timaan pusanga cuiri aiurureu ti arama amanú.
@@ -145,6 +145,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:17:17
+# text = Ukirirí umanduári.
 # text_orig = U-kiriri u-manduari.
 # text_source = p. 165
 # text_sec = Ukiriri umanduari, upucú xinga riré onheen: — Timaan pusanga!
@@ -153,6 +154,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:18:18
+# text = Upukú xinga riré unheẽ: — Ti maã pusanga.
 # text_orig = Upucú xinga riré unheen: — Timaan puçanga.
 # text_source = p. 165
 # text_sec = Ukiriri umanduari, upucú xinga riré onheen: — Timaan pusanga!
@@ -161,6 +163,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:19:19
+# text = Kuíri asú atuká se comadre tasiwa ukena.
 # text_orig = Cuhiri a-çú a-tucátucá ce comadre tacïua ukena.
 # text_source = p. 165
 # text_sec = Cuiri a-su atucátucá ce comadre taxyua okena.
@@ -169,6 +172,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:20:20
+# text = Akwáu katú kuri puxí usuainti usuantí ixé.
 # text_orig = A-quau catú curi puxi u-çuainti ixé.
 # text_source = p. 165
 # text_sec = A-cuau catú curi puxi usuainti ixé.
@@ -177,6 +181,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:21:21
+# text = Ma, maita maã umunhã?
 # text_orig = Mã, maita mahá u-munhan?
 # text_source = p. 165
 # text_sec = Mã maita maá u-munhãn?
@@ -185,6 +190,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:22:22
+# text = Se pirasuasawa yawé umundú.
 # text_orig = Ce piraçuaçaua iaué u-mundú.
 # text_source = p. 165
 # text_sec = Ce pirasuasáua iaué u-mundú.
@@ -193,6 +199,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:23:23
+# text = Kwayé unheẽ pawa riré uyumuamundéu; usuana satambika tasiwa ruka kití apekatú xinga uikú waá asuí.
 # text_orig = Quaié u-nheen pau riré u-iu-muhamundéo; u-çú-ana çatambica tacïua ruca kiti apecatú xinga uicú uahá açui.
 # text_source = p. 165
 # text_sec = Cuaié u-nheen pau riré u-iu-munhamundeo; u-su-ana satambica tacyua ruca kiti apecatú xinga uicú uaá asui.
@@ -201,6 +208,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:24:24
+# text = Utuká ukena usikiesawa rupi.
 # text_orig = U-tucátucá ukena ucikieçaua rupi.
 # text_source = p. 165
 # text_sec = U-tucátucá okeiua ucikiésáua rupi.
@@ -209,6 +217,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:25:25
+# text = Tasiwa uri upirari ukena, unheẽ: — Mayé taá, comadre Daridari?
 # text_orig = Tacïua uri u-pirari ukena, u-nheen: — Mahiê-tahá, comadre Daridari?
 # text_source = p. 165
 # text_sec = Taxyua uri u-pirari okena onheen: — Maie-taa, comadre Daridari?
@@ -217,6 +226,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:26:26
+# text = Maã marandúa ururi indé se ruka kití?
 # text_orig = Mahá marandua u-ruri indé ce ruca kiti?
 # text_source = p. 165
 # text_sec = Maá marandua ururi indé ce roca kiti?
@@ -225,6 +235,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:27:27
+# text = Daridari utĩsawa rupi usuaxara: — Ah comadre!
 # text_orig = Daridari utimçaua rupi u-çuaxára: — Ah comadre!
 # text_source = p. 165
 # text_sec = Daridari utinsáua rupi u-suaxára: — Ah comadre!
@@ -233,6 +244,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:28:28
+# text = Amuasí reté anheẽ indé arama: ixé amanú aikú yumasí rupi.
 # text_orig = A-muaci reté a-nheen indé arama: ixé a-manú a-icú iumaci rupi.
 # text_source = p. 165
 # text_sec = A-muaci reté anheen indé arama, ixé amanú aicú iumaci rupi.
@@ -241,6 +253,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:29:29
+# text = Ayuri apurú ne suí maã mirĩ ixé arama familia irumu.
 # text_orig = A-iuri a-púrú ne çui mahã miri ixé arama familia irumo.
 # text_source = p. 165
 # text_sec = A-iuri a-puru ne suí maã miri ixé arama familia irumo.
@@ -249,6 +262,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:30:30
+# text = Tupana resé katú! 
 # text_orig = Tupana recê catú!
 # text_source = p. 165
 # text_sec = Tupana recé catú!
@@ -257,6 +271,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:31:31
+# text = Agosto yasí renundé xa-pagari kurí upainhẽ.
 # text_orig = Agosto iaci renundé xa-pagari curi upainhen.
 # text_source = p. 165
 # text_sec = agosto iaci tenendé xa-pagari curi upainhen.
@@ -265,6 +280,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:32:32
+# text = Tasiwa katú reté; Ma supí upuruwera.
 # text_orig = Tacïua catú reté; mã çupi ti-upuruêra.
 # text_source = p. 165
 # text_sec = Taxyua catú reté, ma supi tiupuruéra.
@@ -273,6 +289,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:33:33
+# text = Usendú riré Daridari nheenga umuxirika suá, upurandú: — Marama rerikú yumasí?
 # text_orig = Ucendú riré Daridari nheenga u-muxirica çuá, u-purandú: — Marama rericú iumaci?
 # text_source = p. 165
 # text_sec = U-cendú riré Daridari nheenga u-muxirica suá, u-purandú: — Marama rericu iumaci?
@@ -281,6 +298,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:34:34
+# text = Maã taá remunhã kurasí ara pukusawa?
 # text_orig = Maha-tahá re-munhan curaci ara pucuçaua?
 # text_source = p. 165
 # text_sec = Maátaá remunhãn curaci ara pucusáua?
@@ -289,6 +307,7 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:35:35
+# text = Daridari usuaxara: — Maã taá maã usuaxara indé, comadre?
 # text_orig = Daridari u-çuaxára: — Mahá-tahá mahã u-çuaxára indé, comadre?
 # text_source = p. 166
 # text_sec = Daridari u-suaxara: — Maátaá ma u-suaxara indé, comadre?
@@ -297,6 +316,7 @@
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:1:36:36
+# text = Anhengari, apurasé yuíri nhaã ara pukusawa.
 # text_orig = A-nhengari, a-puracê iuïri nhaan ara pucuçaua.
 # text_source = p. 166
 # text_sec = A-nhengari, a-puracé iuyri nhaan ara pucusáua.
@@ -305,6 +325,7 @@
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:1:37:37
+# text = Aramé, usuaxara Tasiwa, kuíri comadre anhunte umunhã kwáu.
 # text_orig = — Aramé, u-çuaxára Tacïua, cuhiri comadre anhunten u-munhan quau.
 # text_source = p. 166
 # text_sec = — Aramé, usuaxara taxyua, cuiri, comadre, anhunten u-munhan cuau, re-iupirú re-puracé iuyri, merecé auá ti u-puraiki ti u-mbaú.
@@ -313,6 +334,7 @@
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:1:38:38
+# text = Reyupirú repurasé yuíri, maãsé awá ti upuraikí ti umbaú.
 # text_orig = Re-iupirú re-puracê iuïri, maharecê auá ti u-puraiki ti u-mbaú.
 # text_source = p. 166
 # text_sec = — Aramé, usuaxara taxyua, cuiri, comadre, anhunten u-munhan cuau, re-iupirú re-puracé iuyri, merecé auá ti u-puraiki ti u-mbaú.
