@@ -1,5 +1,5 @@
 # sent_id = Costa1909:1:1:1
-# text = Daridari unheengari reté kurasí ara pukusawa.
+# text = Daridarí unheengari reté kurasí ara pukusawa.
 # text_orig = Daridari u-nhengari rété curaci ara pucuçaua.
 # text_source = p. 165
 # text_sec = Daridari u-nhengari reté curaci ara pucusáua.
@@ -55,6 +55,15 @@
 # text_sec_source = Stradelli (1928:736)
 # text_por = Dançou todo o dia e toda a noite.
 # text_por_source = Stradelli (1928:736)
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Upurasí	purasí	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=0:7
+2	ara	ara	NOUN	N	Number=Sing	1	obl	_	TokenRange=8:11
+3	pukusawa	pukusawa	ADP	ADP	AdpType=Post	2	case	_	SpaceAfter=No|TokenRange=12:20
+4	,	,	PUNCT	PUNCT	_	1	punct	_	TokenRange=20:21
+5	pituna	pituna	NOUN	N	Number=Sing	1	obl	_	TokenRange=22:28
+6	pukusawa	pukusawa	ADP	ADP	AdpType=Post	5	case	_	SpaceAfter=No|TokenRange=29:37
+7	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=37:38
 
 # sent_id = Costa1909:1:5:5
 # text = Umbaú ana upainhẽ urikú waá.
