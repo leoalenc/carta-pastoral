@@ -177,6 +177,16 @@
 # text_sec_source = Stradelli (1928:736)
 # text_por = Então Daridari tem fome, não tem nada para comer.
 # text_por_source = Stradelli (1928:736)
+# text_eng = TODO
+# inputline = Ti urikú manungara umbaú arama/adp.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	2	advmod	_	TokenRange=0:2
+2	urikú	rikú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=3:8
+3	manungara	manungara	PRON	IND	PronType=Ind	4	nsubj	_	TokenRange=9:18
+4	umbaú	mbaú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	2	parataxis	_	TokenRange=19:24
+5	arama	arama	ADP	ADP	AdpType=Post	2	case	_	SpaceAfter=No|TokenRange=25:30
+6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=30:31
 
 # sent_id = Costa1909:1:11:11
 # text = Utĩ resewara uyururéu, kiririntu upurará uikupukú rupí.
@@ -213,6 +223,15 @@
 # text_sec_source = Stradelli (1928:737)
 # text_por = A quem mais recorrer?
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Awá/int suí/adp taá maã/v?
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Awá	awá	PRON	INT	PronType=Int	4	obl	_	TokenRange=0:3
+2	suí	suí	ADP	ADP	AdpType=Post	1	case	_	TokenRange=4:7
+3	taá	taá	PART	CQ	PartType=Int	4	advmod	_	TokenRange=8:11
+4	maã	maã	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No|TokenRange=12:15
+5	?	?	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=15:16
 
 # sent_id = Costa1909:1:15:15
 # text = Se anama-itá upainhẽ umunhã se yawé.
