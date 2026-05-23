@@ -259,6 +259,13 @@
 # text_sec_source = Stradelli (1928:737)
 # text_por = Calou-se, pensou, depois de pouco disse: — Não ha remedio!
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Ukirirí umanduári.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Ukirirí	kirirí	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=0:7
+2	umanduári	manduári	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	1	parataxis	_	SpaceAfter=No|TokenRange=8:17
+3	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=17:18
 
 # sent_id = Costa1909:1:18:18
 # text = Upukú xinga riré unheẽ: — Ti maã pusanga.
@@ -369,13 +376,21 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:30:30
-# text = Tupana resé katú! 
+# text = Tupana resé katú!
 # text_orig = Tupana recê catú!
 # text_source = p. 165
 # text_sec = Tupana recé catú!
 # text_sec_source = Stradelli (1928:737)
 # text_por = Si Deus quizer!
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Tupana resé/adp katú/a!
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Tupana	tupana	NOUN	N	Number=Sing	0	root	_	TokenRange=0:6
+2	resé	resé	ADP	ADP	AdpType=Post|Rel=Cont	1	case	_	TokenRange=7:11
+3	katú	katú	ADJ	A	_	1	root	_	SpaceAfter=No|TokenRange=12:16
+4	!	!	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=16:17
 
 # sent_id = Costa1909:1:31:31
 # text = Agosto yasí renundé apagari kurí upainhẽ.
