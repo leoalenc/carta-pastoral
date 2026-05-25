@@ -409,6 +409,21 @@
 # text_sec_source = Stradelli (1928:737)
 # text_por = A formiga é muito boa, na verdade não é emprestadeira.
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Tasiwa katú/a reté/advs; Ma/cconj supí/cert ti upuruwera.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Tasiwa	tasiwa	NOUN	N	Number=Sing	8	nsubj	_	TokenRange=0:6
+2	katú	katú	ADJ	A	_	1	amod	_	TokenRange=7:11
+3	reté	reté	ADV	ADVS	AdvType=Deg	8	advmod	_	SpaceAfter=No|TokenRange=12:16
+4	;	;	PUNCT	PUNCT	_	8	punct	_	TokenRange=16:17
+5	Ma	ma	CCONJ	CCONJ	_	8	cc	_	TokenRange=18:20
+6	supí	supí	PART	CERT	PartType=Mod	8	advmod	_	TokenRange=21:25
+7	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	8	advmod	_	TokenRange=26:28
+8-9	upuruwera	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=29:38
+8	upurú	purú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	conj	_	_
+9	wera	wera	PART	FREQ	Aspect=Freq|Clitic=Yes|Tense=Past	8	advmod	_	_
+10	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=38:39
 
 # sent_id = Costa1909:1:33:33
 # text = Usendú riré Daridari nheenga umuxirika suá, upurandú: — Marama rerikú yumasí?
@@ -449,13 +464,25 @@
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:1:36:36
-# text = Anhengari, apurasé yuíri nhaã ara pukusawa.
+# text = Anheengari, apurasí yuíri nhaã ara pukusawa.
 # text_orig = A-nhengari, a-puracê iuïri nhaan ara pucuçaua.
 # text_source = p. 166
 # text_sec = A-nhengari, a-puracé iuyri nhaan ara pucusáua.
 # text_sec_source = Stradelli (1928:738)
 # text_por = Cantei e dancei durante todo este tempo.
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = Anheengari, apurasí yuíri/cconj nhaã ara pukusawa/adp.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Anheengari	nheengari	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=0:10
+2	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=10:11
+3	apurasí	purasí	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	1	parataxis	_	TokenRange=12:19
+4	yuíri	yuíri	CCONJ	CCONJ	_	1	cc	_	TokenRange=20:25
+5	nhaã	nhaã	DET	DEMS	Deixis=Remt|Number=Sing|PronType=Dem	6	det	_	TokenRange=26:30
+6	ara	ara	NOUN	N	Number=Sing	3	obl	_	TokenRange=31:34
+7	pukusawa	pukusawa	ADP	ADP	AdpType=Post	6	case	_	SpaceAfter=No|TokenRange=35:43
+8	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=43:44
 
 # sent_id = Costa1909:1:37:37
 # text = Aramé, usuaxara Tasiwa, kuíri comadre anhunte umunhã kwáu.
@@ -467,13 +494,28 @@
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:1:38:38
-# text = Reyupirú repurasé yuíri, maãresé awá ti upuraikí ti umbaú.
+# text = Reyupirú repurasí yuíri, maãresé awá ti upurakí ti umbaú.
 # text_orig = Re-iupirú re-puracê iuïri, maharecê auá ti u-puraiki ti u-mbaú.
 # text_source = p. 166
 # text_sec = — Aramé, usuaxara taxyua, cuiri, comadre, anhunten u-munhan cuau, re-iupirú re-puracé iuyri, merecé auá ti u-puraiki ti u-mbaú.
 # text_sec_source = Stradelli (1928:738)
 # text_por = — Então, respondeu a formiga, agora, comadre, o que somente podes fazer é recomeçar a dançar, porque quem não trabalha não come.
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = Reyupirú repurasí yuíri/advt, maãresé awá/ind ti upurakí ti umbaú.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Reyupirú	yupirú	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:8
+2	repurasí	purasí	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	1	parataxis	_	TokenRange=9:17
+3	yuíri	yuíri	ADV	ADVT	AdvType=Tim	2	advmod	_	SpaceAfter=No|TokenRange=18:23
+4	,	,	PUNCT	PUNCT	_	8	punct	_	TokenRange=23:24
+5	maãresé	maãresé	SCONJ	SCONJR	_	8	mark	_	TokenRange=25:32
+6	awá	awá	PRON	IND	PronType=Ind	8	nsubj	_	TokenRange=33:36
+7	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	8	advmod	_	TokenRange=37:39
+8	upurakí	purakí	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	2	advcl	_	TokenRange=40:47
+9	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	10	advmod	_	TokenRange=48:50
+10	umbaú	mbaú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	8	parataxis	_	SpaceAfter=No|TokenRange=51:56
+11	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=56:57
 
 # sent_id = Costa1909:2:1:39
 # text = Yepé í, paá, yepé mirawasú, turusú, kirimbawa.
