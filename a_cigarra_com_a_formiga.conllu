@@ -358,13 +358,29 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:28:28
-# text = Amuasí reté anheẽ indé arama: ixé amanú aikú yumasí rupi.
+# text = Amuasí reté anheẽ indé arama: ixé amanú aikú yumasí rupí.
 # text_orig = A-muaci reté a-nheen indé arama: ixé a-manú a-icú iumaci rupi.
 # text_source = p. 165
 # text_sec = A-muaci reté anheen indé arama, ixé amanú aicú iumaci rupi.
 # text_sec_source = Stradelli (1928:737)
 # text_por = Eu sofro muito, o digo para ti, eu estou a morrer de fome.
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Amuasí reté/advs anheẽ indé arama/adp: ixé amanú aikú/auxfs yumasí/n rupí.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Amuasí	muasí	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=0:6
+2	reté	reté	ADV	ADVS	AdvType=Deg	1	advmod	_	TokenRange=7:11
+3	anheẽ	nheẽ	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	1	parataxis	_	TokenRange=12:17
+4	indé	indé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	3	obl	_	TokenRange=18:22
+5	arama	arama	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=23:28
+6	:	:	PUNCT	PUNCT	_	8	punct	_	TokenRange=28:29
+7	ixé	ixé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	TokenRange=30:33
+8	amanú	manú	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	3	parataxis	_	TokenRange=34:39
+9	aikú	ikú	AUX	AUXFS	Mood=Ind|VerbForm=Fin	8	aux	_	TokenRange=40:44
+10	yumasí	yumasí	NOUN	N	Number=Sing	8	obl	_	TokenRange=45:51
+11	rupí	rupí	ADP	ADP	AdpType=Post	10	case	_	SpaceAfter=No|TokenRange=52:56
+12	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=56:57
 
 # sent_id = Costa1909:1:29:29
 # text = Ayuri apurú ne suí maã mirĩ ixé arama familia irumu.
@@ -426,13 +442,32 @@
 10	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=38:39
 
 # sent_id = Costa1909:1:33:33
-# text = Usendú riré Daridari nheenga umuxirika suá, upurandú: — Marama rerikú yumasí?
+# text = Usendú riré Daridarí nheenga umuxirika suá, upurandú: — Marama rerikú yumasí?
 # text_orig = Ucendú riré Daridari nheenga u-muxirica çuá, u-purandú: — Marama rericú iumaci?
 # text_source = p. 165
 # text_sec = U-cendú riré Daridari nheenga u-muxirica suá, u-purandú: — Marama rericu iumaci?
 # text_sec_source = Stradelli (1928:737)
 # text_por = Depois de ter ouvido a conversa de Daridari fechou a cara e perguntou: — Porque tu estás faminta?
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Usendú riré/adp Daridarí nheenga umuxirika suá/ncont, upurandú: — Marama rerikú yumasí/v2?
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Usendú	sendú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=0:6
+2	riré	riré	ADP	ADP	AdpType=Post	1	case	_	TokenRange=7:11
+3	Daridarí	daridarí	NOUN	N	Number=Sing	1	obj	_	TokenRange=12:20
+4	nheenga	nheenga	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=21:28
+5	umuxirika	muxirika	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	1	parataxis	_	TokenRange=29:38
+6	suá	suá	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	5	obj	_	SpaceAfter=No|TokenRange=39:42
+7	,	,	PUNCT	PUNCT	_	8	punct	_	TokenRange=42:43
+8	upurandú	purandú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	5	parataxis	_	SpaceAfter=No|TokenRange=44:52
+9	:	:	PUNCT	PUNCT	_	12	punct	_	TokenRange=52:53
+10	—	—	PUNCT	PUNCT	_	12	punct	_	TokenRange=54:55
+11	Marama	marama	ADV	ADVRU	AdvType=Cau|PronType=Int	12	advmod	_	TokenRange=56:62
+12	rerikú	rikú	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	8	parataxis	_	TokenRange=63:69
+13	yumasí	yumasí	VERB	V2	Mood=Ind|VerbForm=Fin	12	parataxis	_	SpaceAfter=No|TokenRange=70:76
+14	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=76:77
+
 
 # sent_id = Costa1909:1:34:34
 # text = Maã taá remunhã kurasí ara pukusawa?
