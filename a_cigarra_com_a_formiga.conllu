@@ -198,22 +198,63 @@
 # text_por_source = Stradelli (1928:736)
 
 # sent_id = Costa1909:1:12:12
-# text = Umanú putari ramé wana, ukamirika imarika, nheẽ: — Tiana apitasuka kwáu yumasí.
+# text = Umanú putari ramé wana, ukamirika i marika, nheẽ: — Tiana apitasuka kwáu yumasí.
 # text_orig = Umanú putari ramé uana, ucámirica imarica, nheen: — Tiana a-pitáçuca quau iumaci.
 # text_source = p. 165
 # text_sec = Umanú putari ramé ana, ucamiricá imarica unheen: — Tiana apitasuca cuau iumaci.
 # text_sec_source = Stradelli (1928:736)
 # text_por = Quando já estava para querer morrer, apertando a barriga, disse: — Já não posso mais suportar a fome.
 # text_por_source = Stradelli (1928:736)
+# text_eng = TODO
+# inputline = Umanú putari ramé/sconj wana, ukamirika i/pron2 marika, nheẽ: — Tiana/advs apitasuka kwáu yumasí/n.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Umanú	manú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	6	advcl	_	TokenRange=0:5
+2	putari	putari	AUX	AUXN	VerbForm=Inf	1	aux	_	TokenRange=6:12
+3	ramé	ramé	SCONJ	SCONJ	_	1	mark	_	TokenRange=13:17
+4	wana	wana	PART	PFV	Aspect=Perf	1	advmod	_	SpaceAfter=No|TokenRange=18:22
+5	,	,	PUNCT	PUNCT	_	6	punct	_	TokenRange=22:23
+6	ukamirika	kamirika	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=24:33
+7	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=34:35
+8	marika	marika	NOUN	N	Number=Sing	6	obj	_	SpaceAfter=No|TokenRange=36:42
+9	,	,	PUNCT	PUNCT	_	10	punct	_	TokenRange=42:43
+10	nheẽ	nheẽ	VERB	V	VerbForm=Inf	6	parataxis	_	SpaceAfter=No|TokenRange=44:48
+11	:	:	PUNCT	PUNCT	_	14	punct	_	TokenRange=48:49
+12	—	—	PUNCT	PUNCT	_	14	punct	_	TokenRange=50:51
+13	Tiana	tiana	ADV	ADVS	AdvType=Deg	14	advmod	_	TokenRange=52:57
+14	apitasuka	pitasuka	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	10	parataxis	_	TokenRange=58:67
+15	kwáu	kwáu	AUX	AUXN	VerbForm=Inf	14	aux	_	TokenRange=68:72
+16	yumasí	yumasí	NOUN	N	Number=Sing	14	obj	_	SpaceAfter=No|TokenRange=73:79
+17	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=79:80
 
 # sent_id = Costa1909:1:13:13
-# text = Ti apuraikí putari kurasí ara ramé, ti maã pusanga kuíri ayururéu ti arama amanú.
+# text = Ti apurakí putari kurasí ara ramé, ti maã pusanga kuíri ayururéu ti arama amanú.
 # text_orig = Ti apuraiki putari curaci ara ramé, timaan puçanga cuhiri a-iurureu ti arama amanú.
 # text_source = p. 165
 # text_sec = Ti apuraiki putari curaci ara ramé, timaan pusanga cuiri aiurureu ti arama amanú.
 # text_sec_source = Stradelli (1928:736)
 # text_por = Não quiz trabalhar no tempo do sol, agora não ha remedio sinão pedir para não morrer.
 # text_por_source = Stradelli (1928:736)
+# text_eng = TODO
+# inputline = Ti apurakí putari kurasí ara ramé/adp, ti/neg maã/ind pusanga kuíri ayururéu ti arama/adp amanú.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	2	advmod	_	TokenRange=0:2
+2	apurakí	purakí	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=3:10
+3	putari	putari	AUX	AUXN	VerbForm=Inf	2	aux	_	TokenRange=11:17
+4	kurasí	kurasí	NOUN	N	Number=Sing	2	obj	_	TokenRange=18:24
+5	ara	ara	NOUN	N	Number=Sing	2	obl	_	TokenRange=25:28
+6	ramé	ramé	ADP	ADP	AdpType=Post	5	case	_	SpaceAfter=No|TokenRange=29:33
+7	,	,	PUNCT	PUNCT	_	12	punct	_	TokenRange=33:34
+8	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	12	advmod	_	TokenRange=35:37
+9	maã	maã	DET	IND	PronType=Ind	10	det	_	TokenRange=38:41
+10	pusanga	pusanga	NOUN	N	Number=Sing	2	obl	_	TokenRange=42:49
+11	kuíri	kuíri	ADV	ADVT	AdvType=Tim	12	advmod	_	TokenRange=50:55
+12	ayururéu	yururéu	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	2	parataxis	_	TokenRange=56:64
+13	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	15	advmod	_	TokenRange=65:67
+14	arama	arama	ADP	ADP	AdpType=Post	10	case	_	TokenRange=68:73
+15	amanú	manú	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	12	parataxis	_	SpaceAfter=No|TokenRange=74:79
+16	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=79:80
 
 # sent_id = Costa1909:1:14:14
 # text = Awá suí taá maã?
@@ -241,6 +282,17 @@
 # text_sec_source = Stradelli (1928:737)
 # text_por = Os meus parentes todos fizeram como eu.
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Se anama-itá upainhẽ umunhã se yawé/adp.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:2
+2	anama-itá	anama	NOUN	N	Number=Plur	4	nsubj	_	TokenRange=3:12
+3	upainhẽ	upainhẽ	DET	TOT	PronType=Tot	2	det	_	TokenRange=13:20
+4	umunhã	munhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=21:27
+5	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	obl	_	TokenRange=28:30
+6	yawé	yawé	ADP	ADP	AdpType=Post	5	case	_	SpaceAfter=No|TokenRange=31:35
+7	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=35:36
 
 # sent_id = Costa1909:1:16:16
 # text = Upainhẽ unhengari kurasí ara pukusawa, kuíri upurará uikú irusanga, uriri páu aitá uikú.
