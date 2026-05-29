@@ -196,6 +196,21 @@
 # text_sec_source = Stradelli (1928:736)
 # text_por = Com vergonha de pedir, supportou calada por muito tempo.
 # text_por_source = Stradelli (1928:736)
+# text_eng = TODO
+# inputline = Utĩ resewara/adp uyururéu, kiririntu/v upurará uikupukú rupí.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Utĩ	tĩ	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=0:3
+2	resewara	resewara	ADP	ADP	AdpType=Post|Rel=Cont	1	case	_	TokenRange=4:12
+3	uyururéu	yururéu	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	1	parataxis	_	SpaceAfter=No|TokenRange=13:21
+4	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=21:22
+5-6	kiririntu	_	_	_	_	_	_	_	TokenRange=23:32
+5	kirirí	kirirí	VERB	V	VerbForm=Inf	3	parataxis	_	_
+6	ntu	ntu	ADV	ADV	Clitic=Yes	5	advmod	_	_
+7	upurará	purará	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	5	parataxis	_	TokenRange=33:40
+8	uikupukú	ikupukú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	7	parataxis	_	TokenRange=41:49
+9	rupí	rupí	ADP	ADP	AdpType=Post	1	case	_	SpaceAfter=No|TokenRange=50:54
+10	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=54:55
 
 # sent_id = Costa1909:1:12:12
 # text = Umanú putari ramé wana, ukamirika i marika, nheẽ: — Tiana apitasuka kwáu yumasí.
@@ -323,7 +338,6 @@
 15	uikú	ikú	AUX	AUXFS	Mood=Ind|VerbForm=Fin	12	aux	_	SpaceAfter=No|TokenRange=85:89
 16	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=89:90
 
-
 # sent_id = Costa1909:1:17:17
 # text = Ukirirí umanduári.
 # text_orig = U-kiriri u-manduari.
@@ -357,15 +371,37 @@
 # text_sec_source = Stradelli (1928:737)
 # text_por = Agora eu vou bater á porta da minha comadre formiga.
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Kuíri asú atuká se comadre/=n:o|pt tasiwa ukena.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Kuíri	kuíri	ADV	ADVT	AdvType=Tim	3	advmod	_	TokenRange=0:5
+2	asú	sú	AUX	AUXFR	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	3	aux	_	TokenRange=6:9
+3	atuká	tuká	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=10:15
+4	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=16:18
+5	comadre	comadre	NOUN	N	Number=Sing	6	nmod:poss	_	OrigLang=pt|TokenRange=19:26
+6	tasiwa	tasiwa	NOUN	N	Number=Sing	7	nmod:poss	_	TokenRange=27:33
+7	ukena	ukena	NOUN	N	Number=Sing|Rel=Abs	3	obj	_	SpaceAfter=No|TokenRange=34:39
+8	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=39:40
 
 # sent_id = Costa1909:1:20:20
-# text = Akwáu katú kuri puxí usuainti usuantí ixé.
+# text = Akwáu katú kurí puxí usuantí ixé.
 # text_orig = A-quau catú curi puxi u-çuainti ixé.
 # text_source = p. 165
 # text_sec = A-cuau catú curi puxi usuainti ixé.
 # text_sec_source = Stradelli (1928:737)
 # text_por = Não sei si me receberá bem ou mal.
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Akwáu katú/adva kurí puxí/adva usuantí ixé.
+# text_annotator = Matheus Anacleto Gomes
+1	Akwáu	kwáu	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=0:5
+2	katú	katú	ADV	ADVA	AdvType=Man	1	advmod	_	TokenRange=6:10
+3	kurí	kurí	PART	FUT	Tense=Fut	1	advmod	_	TokenRange=11:15
+4	puxí	puxí	ADV	ADVA	AdvType=Man	1	advmod	_	TokenRange=16:20
+5	usuantí	suantí	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	1	parataxis	_	TokenRange=21:28
+6	ixé	ixé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	5	obj	_	SpaceAfter=No|TokenRange=29:32
+7	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=32:33
 
 # sent_id = Costa1909:1:21:21
 # text = Ma, maita maã umunhã?
@@ -407,13 +443,35 @@
 5	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=26:27
 
 # sent_id = Costa1909:1:23:23
-# text = Kwayé unheẽ páu riré uyumuamundéu; usuana satambika tasiwa ruka kití apekatú xinga uikú waá asuí.
+# text = Kwayé unheẽ páu riré uyumuamundéu; usú wana satambika tasiwa ruka kití apekatú xinga uikú waá asuí.
 # text_orig = Quaié u-nheen pau riré u-iu-muhamundéo; u-çú-ana çatambica tacïua ruca kiti apecatú xinga uicú uahá açui.
 # text_source = p. 165
 # text_sec = Cuaié u-nheen pau riré u-iu-munhamundeo; u-su-ana satambica tacyua ruca kiti apecatú xinga uicú uaá asui.
 # text_sec_source = Stradelli (1928:737)
 # text_por = Acabou de dizer assim, depois ataviou-se; foi direto para casa da formiga, que morava um pouco longe d'ahi.
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Kwayé unheẽ páu/v riré/adp uyumuamundéu/v; usú wana satambika/a tasiwa ruka kití apekatú/advc xinga uikú/cop waá/rel asuí/advc.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Kwayé	kwayé	ADV	ADVA	AdvType=Man	2	advmod	_	TokenRange=0:5
+2	unheẽ	nheẽ	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=6:11
+3	páu	páu	VERB	V	VerbForm=Inf	2	parataxis	_	TokenRange=12:15
+4	riré	riré	ADP	ADP	AdpType=Post	2	case	_	TokenRange=16:20
+5	uyumuamundéu	yumuamundéu	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	3	parataxis	_	SpaceAfter=No|TokenRange=21:33
+6	;	;	PUNCT	PUNCT	_	2	punct	_	TokenRange=33:34
+7	usú	sú	AUX	AUXFR	Mood=Ind|Person=3|VerbForm=Fin	15	aux	_	TokenRange=35:38
+8	wana	wana	PART	PFV	Aspect=Perf	2	advmod	_	TokenRange=39:43
+9	satambika	satambika	ADJ	A	_	2	_	_	TokenRange=44:53
+10	tasiwa	tasiwa	NOUN	N	Number=Sing	11	nmod:poss	_	TokenRange=54:60
+11	ruka	uka	NOUN	N	Number=Sing|Rel=Cont	5	obl	_	TokenRange=61:65
+12	kití	kití	ADP	ADP	AdpType=Post	11	case	_	TokenRange=66:70
+13	apekatú	apekatú	ADV	ADVC	AdvType=Loc	2	advmod	_	TokenRange=71:78
+14	xinga	xinga	ADV	ADVS	AdvType=Deg	2	advmod	_	TokenRange=79:84
+15	uikú	ikú	AUX	AUXFS	Mood=Ind|Person=3|VerbForm=Fin	11	acl:relcl	_	TokenRange=85:89
+16	waá	waá	PRON	REL	Number=Sing|PronType=Rel	15	nsubj	_	TokenRange=90:93
+17	asuí	asuí	ADV	ADVC	AdvType=Loc	2	advmod	_	SpaceAfter=No|TokenRange=94:98
+18	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=98:99
 
 # sent_id = Costa1909:1:24:24
 # text = Utuká ukena usikiesawa rupi.
@@ -441,6 +499,18 @@
 # text_sec_source = Stradelli (1928:737)
 # text_por = Que novidade traz você á minha casa?
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Maã/int marandúa ururi indé se ruka kití?
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Maã	maã	DET	INT	PronType=Int	2	det	_	TokenRange=0:3
+2	marandúa	marandúa	NOUN	N	Number=Sing	3	nsubj	_	TokenRange=4:12
+3	ururi	ruri	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=13:18
+4	indé	indé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	3	obj	_	TokenRange=19:23
+5	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=24:26
+6	ruka	uka	NOUN	N	Number=Sing|Rel=Cont	3	obl	_	TokenRange=27:31
+7	kití	kití	ADP	ADP	AdpType=Post	6	case	_	SpaceAfter=No|TokenRange=32:36
+8	?	?	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=36:37
 
 # sent_id = Costa1909:1:27:27
 # text = Daridari utĩsawa rupi usuaxara: — Ah comadre!
