@@ -554,6 +554,21 @@
 # text_sec_source = Stradelli (1928:737)
 # text_por = Venho emprestar de ti qualquer pequena cousa para mim e minha familia.
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Ayuri apurú ne suí/adp maã/n mirĩ/a ixé arama/adp familia/=n:o|pt irumu/sconj.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Ayuri	yuri	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=0:5
+2	apurú	purú	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	1	advcl	_	TokenRange=6:11
+3	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	obl	_	TokenRange=12:14
+4	suí	suí	ADP	ADP	AdpType=Post	3	case	_	TokenRange=15:18
+5	maã	maã	NOUN	N	Number=Sing	2	obj	_	TokenRange=19:22
+6	mirĩ	mirĩ	ADJ	A	_	5	amod	_	TokenRange=23:27
+7	ixé	ixé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	2	iobj	_	TokenRange=28:31
+8	arama	arama	ADP	ADP	AdpType=Post	7	case	_	TokenRange=32:37
+9	familia	familia	NOUN	N	Number=Sing	2	obj	_	OrigLang=pt|TokenRange=38:45
+10	irumu	irumu	SCONJ	SCONJ	_	2	mark	_	SpaceAfter=No|TokenRange=46:51
+11	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=51:52
 
 # sent_id = Costa1909:1:30:30
 # text = Tupana resé katú!
@@ -580,6 +595,16 @@
 # text_sec_source = Stradelli (1928:737)
 # text_por = com a lua de Agosto eu poderei pagar tudo.
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Agosto/=n:o|pt yasí/n renundé/adp apagari kurí upainhẽ.
+# text_annotator = Matheus Anacleto Gomes
+1	Agosto	agosto	NOUN	N	Number=Sing	4	nsubj	_	OrigLang=pt|TokenRange=0:6
+2	yasí	yasí	NOUN	N	Number=Sing	4	obl	_	TokenRange=7:11
+3	renundé	renundé	ADP	ADP	AdpType=Post|Rel=Cont	2	case	_	TokenRange=12:19
+4	apagari	pagari	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=20:27
+5	kurí	kurí	PART	FUT	Tense=Fut	4	advmod	_	TokenRange=28:32
+6	upainhẽ	upainhẽ	DET	TOT	PronType=Tot	2	det	_	SpaceAfter=No|TokenRange=33:40
+7	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=40:41
 
 # sent_id = Costa1909:1:32:32
 # text = Tasiwa katú reté; Ma supí ti upuruwera.
@@ -632,7 +657,6 @@
 13	yumasí	yumasí	VERB	V2	Mood=Ind|VerbForm=Fin	12	parataxis	_	SpaceAfter=No|TokenRange=70:76
 14	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=76:77
 
-
 # sent_id = Costa1909:1:34:34
 # text = Maã taá remunhã kurasí ara pukusawa?
 # text_orig = Maha-tahá re-munhan curaci ara pucuçaua?
@@ -654,13 +678,29 @@
 7	?	?	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=35:36
 
 # sent_id = Costa1909:1:35:35
-# text = Daridari usuaxara: — Maã taá maã usuaxara indé, comadre?
+# text = Daridarí usuaxara: — Maã taá maã usuaxara indé, comadre?
 # text_orig = Daridari u-çuaxára: — Mahá-tahá mahã u-çuaxára indé, comadre?
 # text_source = p. 166
 # text_sec = Daridari u-suaxara: — Maátaá ma u-suaxara indé, comadre?
 # text_sec_source = Stradelli (1928:738)
 # text_por = Daridari respondeu: — O que hei de responder-te, comadre?
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = Daridarí usuaxara: — Maã/int taá maã/ind usuaxara indé, comadre/=n:o|pt?
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Daridarí	daridarí	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:8
+2	usuaxara	suaxara	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=9:17
+3	:	:	PUNCT	PUNCT	_	8	punct	_	TokenRange=17:18
+4	—	—	PUNCT	PUNCT	_	8	punct	_	TokenRange=19:20
+5	Maã	maã	PRON	INT	PronType=Int	8	nsubj	_	TokenRange=21:24
+6	taá	taá	PART	CQ	PartType=Int	8	advmod	_	TokenRange=25:28
+7	maã	maã	PRON	IND	PronType=Ind	8	nsubj	_	TokenRange=29:32
+8	usuaxara	suaxara	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	2	parataxis	_	TokenRange=33:41
+9	indé	indé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	8	obj	_	SpaceAfter=No|TokenRange=42:46
+10	,	,	PUNCT	PUNCT	_	11	punct	_	TokenRange=46:47
+11	comadre	comadre	NOUN	N	Number=Sing	8	vocative	_	OrigLang=pt|SpaceAfter=No|TokenRange=48:55
+12	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=55:56
 
 # sent_id = Costa1909:1:36:36
 # text = Anheengari, apurasí yuíri nhaã ara pukusawa.
@@ -684,13 +724,28 @@
 8	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=43:44
 
 # sent_id = Costa1909:1:37:37
-# text = Aramé, usuaxara Tasiwa, kuíri comadre anhunte umunhã kwáu.
+# text = Aramé, usuaxara Tasiwa, kuíri comadre anhuntẽ umunhã kwáu.
 # text_orig = — Aramé, u-çuaxára Tacïua, cuhiri comadre anhunten u-munhan quau.
 # text_source = p. 166
 # text_sec = — Aramé, usuaxara taxyua, cuiri, comadre, anhunten u-munhan cuau, re-iupirú re-puracé iuyri, merecé auá ti u-puraiki ti u-mbaú.
 # text_sec_source = Stradelli (1928:738)
 # text_por = — Então, respondeu a formiga, agora, comadre, o que somente podes fazer é recomeçar a dançar, porque quem não trabalha não come.
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = Aramé/advt, usuaxara Tasiwa, kuíri comadre/=n:o|pt anhuntẽ umunhã kwáu.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Aramé	aramé	ADV	ADVT	AdvType=Tim	3	advmod	_	SpaceAfter=No|TokenRange=0:5
+2	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=5:6
+3	usuaxara	suaxara	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=7:15
+4	Tasiwa	tasiwa	NOUN	N	Number=Sing	3	obj	_	SpaceAfter=No|TokenRange=16:22
+5	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=22:23
+6	kuíri	kuíri	ADV	ADVT	AdvType=Tim	9	advmod	_	TokenRange=24:29
+7	comadre	comadre	NOUN	N	Number=Sing	3	obj	_	OrigLang=pt|TokenRange=30:37
+8	anhuntẽ	anhuntẽ	ADV	ADV	_	9	advmod	_	TokenRange=38:45
+9	umunhã	munhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	3	parataxis	_	TokenRange=46:52
+10	kwáu	kwáu	AUX	AUXN	VerbForm=Inf	9	aux	_	SpaceAfter=No|TokenRange=53:57
+11	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=57:58
 
 # sent_id = Costa1909:1:38:38
 # text = Reyupirú repurasí yuíri, maãresé awá ti upurakí ti umbaú.
