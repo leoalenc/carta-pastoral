@@ -483,13 +483,31 @@
 # text_por_source = Stradelli (1928:737)
 
 # sent_id = Costa1909:1:25:25
-# text = Tasiwa uri upirari ukena, unheẽ: — Mayé taá, comadre Daridari?
+# text = Tasiwa uri upirari ukena, unheẽ: — Mayé taá, comadre Daridarí?
 # text_orig = Tacïua uri u-pirari ukena, u-nheen: — Mahiê-tahá, comadre Daridari?
 # text_source = p. 165
 # text_sec = Taxyua uri u-pirari okena onheen: — Maie-taa, comadre Daridari?
 # text_sec_source = Stradelli (1928:737)
 # text_por = A formiga vindo abrir a porta disse: — Que é isso, comadre Daridari?
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Tasiwa uri upirari ukena, unheẽ: — Mayé/advra taá, comadre/=n:o|pt Daridarí?
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Tasiwa	tasiwa	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:6
+2	uri	yuri	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=7:10
+3	upirari	pirari	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	2	parataxis	_	TokenRange=11:18
+4	ukena	ukena	NOUN	N	Number=Sing|Rel=Abs	3	obj	_	SpaceAfter=No|TokenRange=19:24
+5	,	,	PUNCT	PUNCT	_	6	punct	_	TokenRange=24:25
+6	unheẽ	nheẽ	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	3	parataxis	_	SpaceAfter=No|TokenRange=26:31
+7	:	:	PUNCT	PUNCT	_	2	punct	_	TokenRange=31:32
+8	—	—	PUNCT	PUNCT	_	2	punct	_	TokenRange=33:34
+9	Mayé	mayé	ADV	ADVRA	AdvType=Man|PronType=Int	2	advmod	_	TokenRange=35:39
+10	taá	taá	PART	CQ	PartType=Int	2	advmod	_	SpaceAfter=No|TokenRange=40:43
+11	,	,	PUNCT	PUNCT	_	13	punct	_	TokenRange=43:44
+12	comadre	comadre	NOUN	N	Number=Sing	13	nmod:poss	_	OrigLang=pt|TokenRange=45:52
+13	Daridarí	daridarí	NOUN	N	Number=Sing	6	vocative	_	SpaceAfter=No|TokenRange=53:61
+14	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=61:62
 
 # sent_id = Costa1909:1:26:26
 # text = Maã marandúa ururi indé se ruka kití?
@@ -513,13 +531,26 @@
 8	?	?	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=36:37
 
 # sent_id = Costa1909:1:27:27
-# text = Daridari utĩsawa rupi usuaxara: — Ah comadre!
+# text = Daridarí tĩsawa rupí usuaxara: — Ah comadre!
 # text_orig = Daridari utimçaua rupi u-çuaxára: — Ah comadre!
 # text_source = p. 165
 # text_sec = Daridari utinsáua rupi u-suaxára: — Ah comadre!
 # text_sec_source = Stradelli (1928:737)
 # text_por = Daridari com vergonha respondeu: — Ah comadre!
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Daridarí tĩsawa rupí usuaxara: — Ah comadre/=n:o|pt!
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Daridarí	daridarí	NOUN	N	Number=Sing	4	nsubj	_	TokenRange=0:8
+2	tĩsawa	tĩsawa	NOUN	N	Number=Sing	4	obl	_	TokenRange=9:15
+3	rupí	rupí	ADP	ADP	AdpType=Post	2	case	_	TokenRange=16:20
+4	usuaxara	suaxara	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=21:29
+5	:	:	PUNCT	PUNCT	_	4	punct	_	TokenRange=29:30
+6	—	—	PUNCT	PUNCT	_	4	punct	_	TokenRange=31:32
+7	Ah	ah	INTJ	INTJ	_	4	discourse	_	TokenRange=33:35
+8	comadre	comadre	NOUN	N	Number=Sing	4	obj	_	OrigLang=pt|SpaceAfter=No|TokenRange=36:43
+9	!	!	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=43:44
 
 # sent_id = Costa1909:1:28:28
 # text = Amuasí reté anheẽ indé arama: ixé amanú aikú yumasí rupí.
@@ -1251,7 +1282,7 @@
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:2:54:92
-# text = 
+# text = Mirawasú unheẽ tuyué supé: — Maã taá remunhã ape
 # text_orig = Mira uaçú u-nheen tuiué çupé: — Mahá-tahá re-munhan ape?
 # text_source = p. 168
 # text_sec = 
