@@ -355,13 +355,27 @@
 3	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=17:18
 
 # sent_id = Costa1909:1:18:18
-# text = Upukú xinga riré unheẽ: — Ti maã pusanga.
+# text = Kupukú xinga riré unheẽ: — Ti maã pusanga.
 # text_orig = Upucú xinga riré unheen: — Timaan puçanga.
 # text_source = p. 165
 # text_sec = Ukiriri umanduari, upucú xinga riré onheen: — Timaan pusanga!
 # text_sec_source = Stradelli (1928:737)
 # text_por = Calou-se, pensou, depois de pouco disse: — Não ha remedio!
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Kupukú/adva xinga riré/adp unheẽ: — Ti maã/ind pusanga.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Kupukú	kupukú	ADV	ADVA	AdvType=Man	4	advmod	_	TokenRange=0:6
+2	xinga	xinga	ADV	ADVS	AdvType=Deg	4	obl	_	TokenRange=7:12
+3	riré	riré	ADP	ADP	AdpType=Post	2	case	_	TokenRange=13:17
+4	unheẽ	nheẽ	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=18:23
+5	:	:	PUNCT	PUNCT	_	4	punct	_	TokenRange=23:24
+6	—	—	PUNCT	PUNCT	_	4	punct	_	TokenRange=25:26
+7	Ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	4	advmod	_	TokenRange=27:29
+8	maã	maã	DET	IND	PronType=Ind	9	det	_	TokenRange=30:33
+9	pusanga	pusanga	NOUN	N	Number=Sing	4	obj	_	SpaceAfter=No|TokenRange=34:41
+10	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=41:42
 
 # sent_id = Costa1909:1:19:19
 # text = Kuíri asú atuká se comadre tasiwa ukena.
@@ -474,13 +488,22 @@
 18	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=98:99
 
 # sent_id = Costa1909:1:24:24
-# text = Utuká ukena usikiesawa rupi.
+# text = Utuká ukena sikiesawa rupí.
 # text_orig = U-tucátucá ukena ucikieçaua rupi.
 # text_source = p. 165
 # text_sec = U-tucátucá okeiua ucikiésáua rupi.
 # text_sec_source = Stradelli (1928:737)
 # text_por = Batteu na porta com medo.
 # text_por_source = Stradelli (1928:737)
+# text_eng = TODO
+# inputline = Utuká ukena sikiesawa rupí.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Utuká	tuká	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=0:5
+2	ukena	ukena	NOUN	N	Number=Sing|Rel=Abs	1	obj	_	TokenRange=6:11
+3	sikiesawa	sikiesawa	NOUN	N	Number=Sing	1	obl	_	TokenRange=12:21
+4	rupí	rupí	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=22:26
+5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=26:27
 
 # sent_id = Costa1909:1:25:25
 # text = Tasiwa uri upirari ukena, unheẽ: — Mayé taá, comadre Daridarí?
