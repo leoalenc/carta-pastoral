@@ -1446,103 +1446,236 @@
 13	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=75:76
 
 # sent_id = Costa1909:2:30:68
-# text = Ariré ne yuntu uikupukú, uyukwáu yepé mira bando tapayuna páu, cavallo arupí.
+# text = Ariré ne nhuntu uikupukú, uyukwáu yepé mira bando tapayuna páu, cavallo árupi.
 # text_orig = Ariré neiunto uicúpucú, u-iuquau iepé mira bando tapaiuna pau, cavallo arupi.
 # text_source = p. 167
-# text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = Somente depois de demorar, apareceu um bando de gente todas pessoas pretas, a cavalo.
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = Ariré ne nhuntu uikupukú, uyukwáu yepé/art mira bando/=n:o|pt tapayuna páu/total, cavallo/=n:o|pt árupi.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Ariré	ariré	ADV	ADVT	AdvType=Tim	4	advmod	_	TokenRange=0:5
+2	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	_	_	TokenRange=6:8
+3	nhuntu	nhuntu	ADV	ADV	_	4	advmod	_	TokenRange=9:15
+4	uikupukú	ikupukú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=16:24
+5	,	,	PUNCT	PUNCT	_	6	punct	_	TokenRange=24:25
+6	uyukwáu	yukwáu	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	4	parataxis	_	TokenRange=26:33
+7	yepé	yepé	DET	ART	Definite=Ind|PronType=Art	8	det	_	TokenRange=34:38
+8	mira	mira	NOUN	N	Number=Sing	9	nmod:poss	_	TokenRange=39:43
+9	bando	bando	NOUN	N	Number=Sing	10	nmod:poss	_	OrigLang=pt|TokenRange=44:49
+10	tapayuna	tapayuna	NOUN	N	Number=Sing	6	obj	_	TokenRange=50:58
+11	páu	páu	PART	TOTAL	Aspect=Compl	6	advmod	_	SpaceAfter=No|TokenRange=59:62
+12	,	,	PUNCT	PUNCT	_	4	punct	_	TokenRange=62:63
+13	cavallo	cavallo	NOUN	N	Number=Sing	6	obj	_	OrigLang=pt|TokenRange=64:71
+14-15	árupi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=72:77
+14	ara	ara	NOUN	N	Number=Sing	6	obl	_	_
+15	upé	upé	ADP	ADP	AdpType=Post|Clitic=Yes	14	case	_	_
+16	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=77:78
 
 # sent_id = Costa1909:2:31:69
 # text = Aintá renundé uri tuixawa.
 # text_orig = Aîtá renundé uri tuixaua.
 # text_source = p. 167
-# text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = Adiante deles vinha o líder.
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = Aintá/pron2 renundé/sconj uri tuixawa.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Aintá	aintá	PRON	PRON2	Case=Gen|Number=Plur|Person=3|PronType=Prs	3	_	_	TokenRange=0:5
+2	renundé	renundé	SCONJ	SCONJ	_	3	mark	_	TokenRange=6:13
+3	uri	yuri	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=14:17
+4	tuixawa	tuixawa	NOUN	N	Number=Sing|Rel=Abs	3	obj	_	SpaceAfter=No|TokenRange=18:25
+5	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=25:26
 
 # sent_id = Costa1909:2:32:70
 # text = Mirawasú usú i piri upurandú: — Awá taá indé?
 # text_orig = Mira uaçú uçú ipiri u-purandú: — Auá-tahá indé?
 # text_source = p. 167
-# text_sec = 
 # text_sec_source = Stradelli (1928:738)
 # text_por = O gigante perguntou: — Quem é você?
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = Mirawasú usú i/pron2 piri/adp upurandú: — Awá/int taá indé?
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Mirawasú	mirawasú	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=0:8
+2	usú	sú	AUX	AUXFR	Mood=Ind|Person=3|VerbForm=Fin	5	aux	_	TokenRange=9:12
+3	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	obl	_	TokenRange=13:14
+4	piri	piri	ADP	ADP	AdpType=Post	3	case	_	TokenRange=15:19
+5	upurandú	purandú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=20:28
+6	:	:	PUNCT	PUNCT	_	5	punct	_	TokenRange=28:29
+7	—	—	PUNCT	PUNCT	_	5	punct	_	TokenRange=30:31
+8	Awá	awá	DET	INT	PronType=Int	1	det	_	TokenRange=32:35
+9	taá	taá	PART	CQ	PartType=Int	5	advmod	_	TokenRange=36:39
+10	indé	indé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	5	obj	_	SpaceAfter=No|TokenRange=40:44
+11	?	?	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=44:45
 
 # sent_id = Costa1909:2:33:71
-# text = Tuixawa usuaxara: — Xe Yurupari.
+# text = Tuixawa usuaxara: — Xe Yuruparí.
 # text_orig = Tuixaua u-çuaxára: — Xe Iurupari.
 # text_source = p. 167
-# text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = O líder respondeu: — Sou Yuruparí.
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = Tuixawa usuaxara: — Xe Yuruparí/propn.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Tuixawa	tuixawa	NOUN	N	Number=Sing|Rel=Abs	2	nsubj	_	TokenRange=0:7
+2	usuaxara	suaxara	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=8:16
+3	:	:	PUNCT	PUNCT	_	2	punct	_	TokenRange=16:17
+4	—	—	PUNCT	PUNCT	_	2	punct	_	TokenRange=18:19
+5	Xe	xe	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	_	_	TokenRange=20:22
+6	Yuruparí	yuruparí	PROPN	PROPN	_	2	obj	_	SpaceAfter=No|TokenRange=23:31
+7	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=31:32
 
 # sent_id = Costa1909:2:34:72
 # text = Resú putari ixé irumu?
 # text_orig = Re-çú putari ixé irumo?
 # text_source = p. 167
-# text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = Você quer ir comigo?
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = Resú putari ixé irumu/adp?
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Resú	sú	AUX	AUXFR	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	2	aux	_	TokenRange=0:4
+2	putari	putari	AUX	AUXN	VerbForm=Inf	1	aux	_	TokenRange=5:11
+3	ixé	ixé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	TokenRange=12:15
+4	irumu	irumu	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=16:21
+5	?	?	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=21:22
 
 # sent_id = Costa1909:2:35:73
-# text = Mirawasú usuaxara: — Aé.
+# text = Mirawasú usuaxara: — Eẽ.
 # text_orig = Mira uaçú u çuaxára: — Aé.
 # text_source = p. 167
-# text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = O gigante respondeu: — Sim.
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = Mirawasú usuaxara: — Eẽ.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Mirawasú	mirawasú	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:8
+2	usuaxara	suaxara	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=9:17
+3	:	:	PUNCT	PUNCT	_	2	punct	_	TokenRange=17:18
+4	—	—	PUNCT	PUNCT	_	2	punct	_	TokenRange=19:20
+5	Eẽ	eẽ	PART	AFF	Polarity=Pos	2	advmod	_	SpaceAfter=No|TokenRange=21:23
+6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=23:24
 
 # sent_id = Costa1909:2:36:74
 # text = Asú putari ne irumu.
 # text_orig = Xa-çú putari ne irumo.
 # text_source = p. 167
-# text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = Eu quero ir contigo.
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = Asú putari ne irumu/adp.
+# text_annotator = Matheus Anacleto Gomes
+1	Asú	sú	AUX	AUXFR	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	2	aux	_	TokenRange=0:3
+2	putari	putari	AUX	AUXN	VerbForm=Inf	1	aux	_	TokenRange=4:10
+3	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|PronType=Prs	0	root	_	TokenRange=11:13
+4	irumu	irumu	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=14:19
+5	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=19:20
 
 # sent_id = Costa1909:2:37:75
-# text = Uyupiri cavallo arupi, usú ana Yurupari irumu.
+# text = Uyupiri cavallo árupi, usú ana Yuruparí irumu.
 # text_orig = U-iupiri cavallo arupi, u-çú-ana Iurupari irumo.
 # text_source = p. 167
-# text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = Subiu no cavalo, foi com Yurupari.
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = Uyupiri cavallo/=n:o|pt árupi, usú ana Yuruparí/propn irumu/adp.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Uyupiri	yupiri	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=0:7
+2	cavallo	cavallo	NOUN	N	Number=Sing	1	obj	_	OrigLang=pt|TokenRange=8:15
+3-4	árupi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=16:21
+3	ara	ara	NOUN	N	Number=Sing	1	obl	_	_
+4	upé	upé	ADP	ADP	AdpType=Post|Clitic=Yes	3	case	_	_
+5	,	,	PUNCT	PUNCT	_	6	punct	_	TokenRange=21:22
+6	usú	sú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	1	parataxis	_	TokenRange=23:26
+7	ana	ana	PART	PFV	Aspect=Perf	6	advmod	_	TokenRange=27:30
+8	Yuruparí	yuruparí	PROPN	PROPN	_	6	obl	_	TokenRange=31:39
+9	irumu	irumu	ADP	ADP	AdpType=Post	8	case	_	SpaceAfter=No|TokenRange=40:45
+10	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=45:46
 
 # sent_id = Costa1909:2:38:76
-# text = Watá uikupukú Yurupari irumu, umaã upaĩ maã.
+# text = Watá uikupukú Yuruparí irumu, umaã upaĩ maã.
 # text_orig = Uatá uicupucú Iurupari irumo, u-mahan upain mahan.
 # text_source = p. 167
-# text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = Andou demoradamente com Yuruparí, viu tudo.
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = Watá uikupukú Yuruparí/propn irumu/adp, umaã upaĩ maã/n.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Watá	watá	VERB	V	VerbForm=Inf	0	root	_	TokenRange=0:4
+2	uikupukú	ikupukú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	1	parataxis	_	TokenRange=5:13
+3	Yuruparí	yuruparí	PROPN	PROPN	_	2	obl	_	TokenRange=14:22
+4	irumu	irumu	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=23:28
+5	,	,	PUNCT	PUNCT	_	6	punct	_	TokenRange=28:29
+6	umaã	maã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	2	parataxis	_	TokenRange=30:34
+7	upaĩ	upaĩ	DET	TOT	PronType=Tot	8	det	_	TokenRange=35:39
+8	maã	maã	NOUN	N	Number=Sing	6	obj	_	SpaceAfter=No|TokenRange=40:43
+9	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=43:44
 
 # sent_id = Costa1909:2:39:77
-# text = Umaã yuíri Yurupari ti usasáu mamé uikú waá kurusá.
+# text = Umaã yuíri Yuruparí ti usasáu mamé uikú waá kurusá.
 # text_orig = Umahan iuïri Iurupari ti u-çaçau mamé u-icú uahá curuçá.
 # text_source = p. 167
-# text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = Viu também que Yuruparí não passou onde estava a cruz.
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = Umaã yuíri/advg Yuruparí/propn ti usasáu mamé/advlc uikú/auxfs waá/rel kurusá.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Umaã	maã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=0:4
+2	yuíri	yuíri	ADV	ADVG	AdvType=Deg	1	advmod	_	TokenRange=5:10
+3	Yuruparí	yuruparí	PROPN	PROPN	_	1	obj	_	TokenRange=11:19
+4	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	5	advmod	_	TokenRange=20:22
+5	usasáu	sasáu	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	1	parataxis	_	TokenRange=23:29
+6	mamé	mamé	ADV	ADVLC	AdvType=Loc|PronType=Rel	1	advmod	_	TokenRange=30:34
+7	uikú	ikú	AUX	AUXFS	Mood=Ind|VerbForm=Fin	1	acl:relcl	_	TokenRange=35:39
+8	waá	waá	PRON	REL	Number=Sing|PronType=Rel	7	nsubj	_	TokenRange=40:43
+9	kurusá	kurusá	NOUN	N	Number=Sing	5	obj	_	SpaceAfter=No|TokenRange=44:50
+10	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=50:51
 
 # sent_id = Costa1909:2:40:78
-# text = I mawera resewara upurandú: — Marama ti resú mamé uikú kurusá?
+# text = I maãwera resewara upurandú: — Marama ti resú mamé uikú kurusá?
 # text_orig = I-mauêra recêuára u-purandú: — Marama ti re-çú mamé u-icú curuçá?
 # text_source = p. 167
-# text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = Ele curioso perguntou a respeito: — Por que você não passa onde está a cruz?
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = I/pron2 maãwera/v resewara/adp upurandú: — Marama ti resú mamé/advlc uikú/auxfs kurusá?
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	I	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:1
+2-3	maãwera	_	_	_	_	_	_	_	TokenRange=2:9
+2	maã	maã	VERB	V	VerbForm=Inf	0	root	_	_
+3	wera	wera	PART	FREQ	Aspect=Freq|Clitic=Yes|Tense=Past	2	advmod	_	_
+4	resewara	resewara	ADP	ADP	AdpType=Post|Rel=Cont	2	case	_	TokenRange=10:18
+5	upurandú	purandú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	2	parataxis	_	SpaceAfter=No|TokenRange=19:27
+6	:	:	PUNCT	PUNCT	_	2	punct	_	TokenRange=27:28
+7	—	—	PUNCT	PUNCT	_	2	punct	_	TokenRange=29:30
+8	Marama	marama	ADV	ADVRU	AdvType=Cau|PronType=Int	2	advmod	_	TokenRange=31:37
+9	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	2	advmod	_	TokenRange=38:40
+10	resú	sú	AUX	AUXFR	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	12	aux	_	TokenRange=41:45
+11	mamé	mamé	ADV	ADVLC	AdvType=Loc|PronType=Rel	2	advmod	_	TokenRange=46:50
+12	uikú	ikú	AUX	AUXFS	Mood=Ind|VerbForm=Fin	10	aux	_	TokenRange=51:55
+13	kurusá	kurusá	NOUN	N	Number=Sing	5	obj	_	SpaceAfter=No|TokenRange=56:62
+14	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=62:63
 
 # sent_id = Costa1909:2:41:79
 # text = Yurupari usuaxara: — Maãresé aé Iesu Christu Rangawa.
@@ -1550,7 +1683,7 @@
 # text_source = p. 167
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = Yuruparí respondeu: — Porque é o sinal de Jesus Cristo.
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:2:42:80
@@ -1559,7 +1692,7 @@
 # text_source = p. 167
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = O gigante perguntou: — Quem é Jesus Cristo?
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:2:43:81
@@ -1577,7 +1710,7 @@
 # text_source = p. 167
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = Ele é mais forte do que você?
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:2:45:83
