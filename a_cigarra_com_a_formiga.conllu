@@ -1031,13 +1031,28 @@
 8	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=39:40
 
 # sent_id = Costa1909:2:9:47
-# text = Amuramé umaã nhaã muruixawa umunhãtiwa kurusá rangawa suá-pé.
-# text_orig = Amuramé u-mahan nhaan muruixaua u-munhan tëua curuçá rangaua çuápe. 
+# text = Amuramé umaã nhaã muruixawa umunhãtiwa kurusá rangawa suá-pe.
+# text_orig = Amuramé u-mahan nhaan muruixaua u-munhan tëua curuçá rangaua çuápe.
 # text_source = p. 166
-# text_sec = 
 # text_sec_source = Stradelli (1928:738)
 # text_por = Algumas vezes viu que aquele governador costumava fazer sinal da cruz na face.
 # text_por_source = Stradelli (1928:738)
+# text_eng = TODO
+# inputline = Amuramé umaã nhaã muruixawa umunhãtiwa/=hab:x|v:a|t kurusá rangawa suá-pe.
+# text_orig_transcriber = Matheus Anacleto Gomes
+# text_annotator = Matheus Anacleto Gomes
+1	Amuramé	amuramé	ADV	ADVT	AdvType=Tim	2	advmod	_	TokenRange=0:7
+2	umaã	maã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=8:12
+3	nhaã	nhaã	DET	DEMS	Deixis=Remt|Number=Sing|PronType=Dem	4	det	_	TokenRange=13:17
+4	muruixawa	muruixawa	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=18:27
+5	umunhãtiwa	munhã	VERB	V	Aspect=Hab|Mood=Ind|Person=3|VerbForm=Fin	2	parataxis	_	TokenRange=28:38
+6	kurusá	kurusá	NOUN	N	Number=Sing	7	nmod:poss	_	TokenRange=39:45
+7	rangawa	sangawa	NOUN	N	Number=Sing|Rel=Cont	5	obj	_	TokenRange=46:53
+8	suá	suá	NOUN	N	Number=Sing|Rel=Abs	5	obl	_	TokenRange=54:57
+8-9	suá-pe	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=58:64
+8	suá	suá	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	5	obl	_	_
+9	pe	upé	ADP	ADP	AdpType=Post|Clitic=Yes	8	case	_	_
+10	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=64:65
 
 # sent_id = Costa1909:2:10:48
 # text = Ukwáu putari maã nhaã upurandú: — Maã taá nhaã remunhã waá ne ruá-pe?
@@ -2049,21 +2064,21 @@
 9	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=40:41
 
 # sent_id = Costa1909:2:58:96
-# text = Yané Muruixawa, Yané Yara
+# text = Yané Muruixawa, Yané Yara.
 # text_orig = Iané Muruixaua, Iané Iára.
 # text_source = p. 168
 # text_sec_source = Stradelli (1928:738)
-# text_por = Ele é Rei, Ele é Senhor.
+# text_por = Nosso Rei, nosso Senhor.
 # text_por_source = Stradelli (1928:738)
 # text_eng = TODO
-# inputline = Yané/pron2 Muruixawa, Yané/pron2 Yara/n
-# text_orig_transcriber = Matheus Anacleto Gomes
+# inputline = Yané/pron2 Muruixawa, Yané/pron2 Yara/n.
 # text_annotator = Matheus Anacleto Gomes
 1	Yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:4
 2	Muruixawa	muruixawa	NOUN	N	Number=Sing	5	nmod:poss	_	SpaceAfter=No|TokenRange=5:14
 3	,	,	PUNCT	PUNCT	_	0	punct	_	TokenRange=14:15
 4	Yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=16:20
-5	Yara	yara	NOUN	N	Number=Sing	0	_	_	TokenRange=21:25
+5	Yara	yara	NOUN	N	Number=Sing	0	_	_	SpaceAfter=No|TokenRange=21:25
+6	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=25:26
 
 # sent_id = Costa1909:2:59:97
 # text = Aé uikú upainhẽ rupí.
@@ -2158,40 +2173,43 @@
 # text_source = p. 168
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = O ancião viu e disse: — Tome cuidado; ali existe uma cachoeira que é muito perigosa.
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:2:64:102
-# text = 
+# text = Maraîta usasáu waá (o qual/que/cujo) rupí (pelo) ukanhemu (perder-se) i pupé (em/dentro de/de a causa).
 # text_orig = Maraîta u-çaçau uahá rupi u-cahemo i-popé.
 # text_source = p. 168
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = Maraîta passou pelo 
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:2:65:103
+# text = Reserviri putari Iesu Christu remunhã ne ruka cachoeira ruakí, remunhã arama katusawa ne rapixara-itá mira supé, remuyasayasá amú suaxara kití awá usika.
 # text_orig = Re-servire putari Iesu Christu re-munhan ne ruca cachoeira ruaki, re-munhan arama catuçaua ne rapixaraîtá mira çupé, re-muiaçaiaçau amú çuaxára kiti auá u-cicá.
 # text_source = p. 168
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = Você quer servir a Jesus Cristo faça tua casa perto da cachoeira, faça o bem aos teus semelhantes, atravesse para o outro lado quem chegar.
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:2:66:104
+# text = Mirawasú usuaxara: — Yawé ramé aservire Iesu Christu.
 # text_orig = Mira uaçú u-çuaxára: — Iaué ramé xa-servire Iesu Christu.
 # text_source = p. 168
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = O gigante respondeu: — Então eu sirvio a Jesus Cristo.
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:2:67:105
+# text = Umunhã suka cachoeira ruaki; uikupukú yawé umunhã tuyué umbué waá yawé.
 # text_orig = U-munhan çuca cachoeira ruaki; uicupucú iaué u-munhan tuiué u-mbué uahá iaué.
 # text_source = p. 168
 # text_sec = 
 # text_sec_source = Stradelli (1928:738)
-# text_por = 
+# text_por = Ele fez a casa perto da cachoeira; 
 # text_por_source = Stradelli (1928:738)
 
 # sent_id = Costa1909:2:68:106
